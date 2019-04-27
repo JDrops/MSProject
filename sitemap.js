@@ -1,4 +1,4 @@
-/* Github URL (https://raw.githubusercontent.com/JDrops/MSProject/master/sitemap.js) by JDrops
+/* Github URL (https://raw.githubusercontent.com/JDrops/MSProject/master/sitemap.js) by JDrops */
 var postTitle = new Array();
 var postUrl = new Array();
 var postMp3 = new Array();
